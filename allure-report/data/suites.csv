@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1","openBrowser","Default Suite","Tue Jan 21 10:14:12 GMT+03:00 2025","broken","Tue Jan 21 10:14:12 GMT+03:00 2025","LoginTests","MySeleniumProject","LoginTests","openBrowser"
+"","10316","Maximum Minimum Karakter Giriş Kontrolü","Default Suite","Tue Jan 21 12:43:52 GMT+03:00 2025","passed","Tue Jan 21 12:44:02 GMT+03:00 2025","LoginTests","my-selenium-project","LoginTests","MaxMinCharacterControl"
+"","5236","Başarılı giriş kontrolü","Default Suite","Tue Jan 21 12:44:05 GMT+03:00 2025","passed","Tue Jan 21 12:44:10 GMT+03:00 2025","LoginTests","my-selenium-project","LoginTests","SuccessfulLogin"
+"","5326","Başarısız Giriş Kontrolü","Default Suite","Tue Jan 21 12:44:12 GMT+03:00 2025","passed","Tue Jan 21 12:44:18 GMT+03:00 2025","LoginTests","my-selenium-project","LoginTests","UnSuccessfulLogin"
